@@ -1,3 +1,5 @@
+## Measures of Central Tendency
+
 Measures of central tendency are statistical measures that describe the central or typical value of a dataset. They provide a single value that represents the center or midpoint of the data distribution. The main measures of central tendency include the following:
 
 1. **Mean:**
@@ -17,3 +19,5 @@ Each measure of central tendency has its own strengths and weaknesses and is app
 - The mode is useful for categorical data and can also be used for numerical data, but it may not be unique or may not exist in some datasets.
 
 In summary, the choice of measure of central tendency depends on the characteristics of the dataset and the specific context of the analysis. It is often useful to consider multiple measures of central tendency to gain a comprehensive understanding of the data.
+
+---
